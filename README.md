@@ -1,4 +1,4 @@
-# Adaptive-Sigmoid-Parametrized-Retrieval-Augmented-Generation-for-Cpld-Start-Recommendation
+# Adaptive-Sigmoid-Parametrized-Retrieval-Augmented-Generation-for-Cold-Start-Recommendation
 Published in: 2026 IEEE International Conference on Interdisciplinary Approaches in Technology and Management for Social Innovation (IATMSI)
 Read the full paper on IEEE Xplore: https://ieeexplore.ieee.org/document/11465948
 
